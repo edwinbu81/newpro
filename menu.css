@@ -1,0 +1,25 @@
+header
+{
+overflow: auto;
+margin-bottom: 10px;
+background:#9b14c4;
+width:60%;
+text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #f3f7f3;
+    image-resolution: ;
+}
+body
+{
+    
+
+background:#24ecf3;
+width:100%;
+text-align: center;
+    
+    justify-content: center;
+    align-items: center;
+    color: #ec0606;
+}
